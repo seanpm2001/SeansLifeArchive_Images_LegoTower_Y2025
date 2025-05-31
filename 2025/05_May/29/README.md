@@ -1723,7 +1723,19 @@ Christmas quests
 
 **194**
 
-- I have not yet started playing Lego Tower today. I plan to play after 10:00 pm PST. - 2025, Thursday, May 29th
+- I returned for my fourth session of 2025, playing for a moderate amount of time today, lasting about 63 minutes. I eventually forced myself to quit, after reaching a stopping point. I played after 11:00 pm today, with my session going from 11:24 pm to 12:27 am.
+- I did collection, restocking, quests, and elevator trips.
+- I did not build any new levels this week. I have  built all food, service, retail, recreation, creative and residential levels in the game. Until I update, there will be no new levels to build, except for empty ones.
+- I did not unlock any new characters today, but I did upgrade 1 character.
+- I did not paint any of my floors today.
+- I completed 10 character quests today, and completed several other quests. I did not earn any elevator bux bonuses today either. I earned 770 bux today (starting with 26,751 bux, and ending with 27,521 bux)
+- I did not upgrade my elevator this week.
+- I unlocked 1 new piece this week.
+- I used a couple of VIPs today.
+- I am also still considering updating the game. I am starting to consider not doing it, as 40 character quests seems like it is going to be a nightmare, and I know they have added more since then. Then again, it is starting to look like I don't have a choice. Now that I am out of residential, creative, and retail levels I can build, updating seems more tempting.
+- I had an okay time playing, and eventually quit. - 2025, Thursday, May 29th
+
+- ~~I have not yet started playing Lego Tower today. I plan to play after 10:00 pm PST.~~
 
 ***
 
@@ -1735,28 +1747,28 @@ See above.
 
 ## Statistics
 
-> **Game version:** `1.20.2` _(as of 2025, Thursday, May 22nd)_
+> **Game version:** `1.20.2` _(as of 2025, Thursday, May 29th)_
 
-- **Floors:** `130` / `?` (`???.??%`) _(as of 2025, Thursday, May 22nd)_
-- **Characters:** `10` / `41` (`024.39%`) _(as of 2025, Thursday, May 22nd)_
-- **Total unique pieces collected:** `715` / `1077` (`066.388%`) _(as of 2025, Thursday, May 22nd)_
-- **Total play time:** `6 days, 14+ hours (158+ hours)` _Over the course of 3-4+ years_ _(as of 2025, Thursday, May 22nd)_
-- **Total tower rebuilds:** `0` _(as of 2025, Thursday, May 22nd)_
-- **Total bux spent:** `?????` _(as of 2025, Thursday, May 22nd)_
-- **Total coins spent:** `at least 275.800 million` _(as of 2025, Thursday, May 22nd)_
-- **Residential level count:** `49` _(as of 2025, Thursday, May 22nd)_
-- **Food level count:** `Uncounted` _(as of 2025, Thursday, May 22nd)_
-- **Service level count:** `Uncounted` _(as of 2025, Thursday, May 22nd)_
-- **Retail level count:** `Uncounted` _(as of 2025, Thursday, May 22nd)_
-- **Recreation level count:** `Uncounted` _(as of 2025, Thursday, May 22nd)_
-- **Creative level count:** `Uncounted` _(as of 2025, Thursday, May 22nd)_
-- **Minifigure count:** `250` _(as of 2025, Thursday, May 22nd)_
-- **Bitizens evicted** `0` _(as of 2025, Thursday, May 22nd)_
+- **Floors:** `130` / `?` (`???.??%`) _(as of 2025, Thursday, May 29th)_
+- **Characters:** `10` / `41` (`024.39%`) _(as of 2025, Thursday, May 29th)_
+- **Total unique pieces collected:** `716` / `1077` (`066.480%`) _(as of 2025, Thursday, May 29th)_
+- **Total play time:** `6 days, 15+ hours (159+ hours)` _Over the course of 3-4+ years_ _(as of 2025, Thursday, May 29th)_
+- **Total tower rebuilds:** `0` _(as of 2025, Thursday, May 29th)_
+- **Total bux spent:** `?????` _(as of 2025, Thursday, May 29th)_
+- **Total coins spent:** `at least 275.800 million` _(as of 2025, Thursday, May 29th)_
+- **Residential level count:** `49` _(as of 2025, Thursday, May 29th)_
+- **Food level count:** `Uncounted` _(as of 2025, Thursday, May 29th)_
+- **Service level count:** `Uncounted` _(as of 2025, Thursday, May 29th)_
+- **Retail level count:** `Uncounted` _(as of 2025, Thursday, May 29th)_
+- **Recreation level count:** `Uncounted` _(as of 2025, Thursday, May 29th)_
+- **Creative level count:** `Uncounted` _(as of 2025, Thursday, May 29th)_
+- **Minifigure count:** `250` _(as of 2025, Thursday, May 29th)_
+- **Bitizens evicted** `0` _(as of 2025, Thursday, May 29th)_
 
 ***
 
 # File info
 
-- **File version:** `1 (2025, Thursday, May 29th at 12:53 pm PST)`
+- **File version:** `2 (2025, Friday, May 30th at 01:33 pm PST)`
 
 ***

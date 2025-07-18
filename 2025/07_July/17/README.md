@@ -1,7 +1,7 @@
 
 ***
 
-# Lego Tower session 2025, Thursday, July 10th
+# Lego Tower session 2025, Thursday, July 17th
 
 <details><summary><p>Click/tap here to expand/collapse older entries</p></summary>
 
@@ -1777,8 +1777,6 @@ Christmas quests
 - I am also still considering updating the game. I am starting to consider not doing it, as 40 character quests seems like it is going to be a nightmare, and I know they have added more since then. Then again, it is starting to look like I don't have a choice. Now that I am out of residential, creative, and retail levels I can build, updating seems more tempting.
 - I had a good time playing, and eventually quit. - 2025, Thursday, June 19th
 
-</details>
-
 ## 198
 
 **198**
@@ -1830,6 +1828,13 @@ Christmas quests
 - I am also still considering updating the game. I am starting to consider not doing it, as 40 character quests seems like it is going to be a nightmare, and I know they have added more since then. Then again, it is starting to look like I don't have a choice. Now that I am out of residential, creative, and retail levels I can build, updating seems more tempting.
 - I had a decent time playing, and eventually quit. - 2025, Thursday, July 10th
 
+</details>
+
+## 201
+
+**201**
+
+- I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session. - 2025, Thursday, July 17th
 
 ***
 
@@ -1863,6 +1868,6 @@ See above.
 
 # File info
 
-- **File version:** `2 (2025, Friday, July 11th at 01:29 pm PST)`
+- **File version:** `1 (2025, Thursday, July 17th at 12:25 pm PST)`
 
 ***

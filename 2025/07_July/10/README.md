@@ -1817,7 +1817,18 @@ Christmas quests
 
 **200**
 
-- I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session. - 2025, Thursday, July 10th
+- ~~I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session.~~
+- I returned for my ninth session of 2025, playing for a short amount of time today, lasting about 33 minutes. I eventually forced myself to quit, after reaching a stopping point. I played after 10:00 pm today, with my session going from 10:47 pm to 11:20 pm.
+- I did collection, restocking, quests, and elevator trips.
+- I began construction on my 136th level today, which is an empty level. I have built all food, service, retail, recreation, creative and residential levels in the game. Until I update, there will be no new levels to build, except for empty ones.
+- I did not unlock any new characters today, and I didn't upgrade any existing characters either.
+- I did not paint any of my floors today.
+- I completed 10 character quests today, and completed several other quests. I did not earn any elevator bux bonuses today either. I earned 620 bux today (starting with 30,696 bux, and ending with 31,316 bux)
+- I did not upgrade my elevator this week.
+- I did not unlock any new pieces this week.
+- I used a couple of VIPs today.
+- I am also still considering updating the game. I am starting to consider not doing it, as 40 character quests seems like it is going to be a nightmare, and I know they have added more since then. Then again, it is starting to look like I don't have a choice. Now that I am out of residential, creative, and retail levels I can build, updating seems more tempting.
+- I had a decent time playing, and eventually quit. - 2025, Thursday, July 10th
 
 
 ***
@@ -1830,28 +1841,28 @@ See above.
 
 ## Statistics
 
-> **Game version:** `1.20.2` _(as of 2025, Thursday, July 3rd)_
+> **Game version:** `1.20.2` _(as of 2025, Thursday, July 10th)_
 
-- **Floors:** `133` / `?` (`???.??%`) _(as of 2025, Thursday, July 3rd)_
-- **Characters:** `10` / `41` (`024.39%`) _(as of 2025, Thursday, July 3rd)_
-- **Total unique pieces collected:** `719` / `1077` (`066.852%`) _(as of 2025, Thursday, July 3rd)_
-- **Total play time:** `6 days, 19+ hours (163+ hours)` _Over the course of 3-4+ years_ _(as of 2025, Thursday, July 3rd)_
-- **Total tower rebuilds:** `0` _(as of 2025, Thursday, July 3rd)_
-- **Total bux spent:** `?????` _(as of 2025, Thursday, July 3rd)_
-- **Total coins spent:** `at least 295.820 million` _(as of 2025, Thursday, July 3rd)_
-- **Residential level count:** `49` _(as of 2025, Thursday, July 3rd)_
-- **Food level count:** `Uncounted` _(as of 2025, Thursday, July 3rd)_
-- **Service level count:** `Uncounted` _(as of 2025, Thursday, July 3rd)_
-- **Retail level count:** `Uncounted` _(as of 2025, Thursday, July 3rd)_
-- **Recreation level count:** `Uncounted` _(as of 2025, Thursday, July 3rd)_
-- **Creative level count:** `Uncounted` _(as of 2025, Thursday, July 3rd)_
-- **Minifigure count:** `250` _(as of 2025, Thursday, July 3rd)_
-- **Bitizens evicted** `0` _(as of 2025, Thursday, July 3rd)_
+- **Floors:** `133` / `?` (`???.??%`) _(as of 2025, Thursday, July 10th)_
+- **Characters:** `10` / `41` (`024.39%`) _(as of 2025, Thursday, July 10th)_
+- **Total unique pieces collected:** `719` / `1077` (`066.852%`) _(as of 2025, Thursday, July 10th)_
+- **Total play time:** `6 days, 20+ hours (164+ hours)` _Over the course of 3-4+ years_ _(as of 2025, Thursday, July 10th)_
+- **Total tower rebuilds:** `0` _(as of 2025, Thursday, July 10th)_
+- **Total bux spent:** `?????` _(as of 2025, Thursday, July 10th)_
+- **Total coins spent:** `at least 306.000 million` _(as of 2025, Thursday, July 10th)_
+- **Residential level count:** `49` _(as of 2025, Thursday, July 10th)_
+- **Food level count:** `Uncounted` _(as of 2025, Thursday, July 10th)_
+- **Service level count:** `Uncounted` _(as of 2025, Thursday, July 10th)_
+- **Retail level count:** `Uncounted` _(as of 2025, Thursday, July 10th)_
+- **Recreation level count:** `Uncounted` _(as of 2025, Thursday, July 10th)_
+- **Creative level count:** `Uncounted` _(as of 2025, Thursday, July 10th)_
+- **Minifigure count:** `250` _(as of 2025, Thursday, July 10th)_
+- **Bitizens evicted** `0` _(as of 2025, Thursday, July 10th)_
 
 ***
 
 # File info
 
-- **File version:** `1 (2025, Thursday, July 10th at 10:55 pm PST)`
+- **File version:** `2 (2025, Friday, July 11th at 01:29 pm PST)`
 
 ***

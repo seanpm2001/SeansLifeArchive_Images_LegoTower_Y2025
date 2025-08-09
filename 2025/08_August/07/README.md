@@ -1847,7 +1847,7 @@ Christmas quests
 **203**
 
 - ~~I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session. Gameplay currently seems unlikely for today.~~
-- I ended up skipping my session again this week, due to a lack of time - 2025, Thursday, July 31st
+- I ended up skipping my session again this week, due to a lack of time. - 2025, Thursday, July 31st
 
 </details>
 
@@ -1855,7 +1855,8 @@ Christmas quests
 
 **204**
 
-- I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session. Gameplay currently seems unlikely for today. - 2025, Thursday, August 7th
+- ~~I have not yet started playing Lego Tower today. I plan to play by 11:20 pm PST, but if I don't have the time, I will have to skip my session. Gameplay currently seems unlikely for today.~~
+- I ended up skipping my session again this week, due to a lack of time. - 2025, Thursday, August 7th
 
 ***
 
@@ -1889,6 +1890,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Thursday, August 7th at 03:40 pm PST)`
+- **File version:** `2 (2025, Friday, August 8th at 02:45 pm PST)`
 
 ***

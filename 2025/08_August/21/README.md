@@ -1,7 +1,7 @@
 
 ***
 
-# Lego Tower session 2025, Thursday, August 21st
+# Lego Tower session 2025, Friday, August 22nd
 
 <details><summary><p>Click/tap here to expand/collapse older entries</p></summary>
 
@@ -1869,7 +1869,8 @@ Christmas quests
 
 **206**
 
-- I have not yet started playing Lego Tower today. I plan to play by 11:00 pm PST, but if I don't have the time, I will have to skip my session. Gameplay currently seems unlikely for today. - 2025, Thursday, August 21st
+- ~~I have not yet started playing Lego Tower today. I plan to play by 11:00 pm PST, but if I don't have the time, I will have to skip my session. Gameplay currently seems unlikely for today.~~
+- I ended up skipping my session again this week, due to a lack of time. - 2025, Thursday, August 21st
 
 ***
 
@@ -1903,6 +1904,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Thursday, August 21st at 02:14 pm PST)`
+- **File version:** `2 (2025, Friday, August 22nd at 02:08 pm PST)`
 
 ***

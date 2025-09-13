@@ -1888,7 +1888,8 @@ Christmas quests
 
 **209**
 
-- I have not yet started playing Lego Tower today. I plan to play tonight, but may or may not have the time. - 2025, Thursday, September 11th
+- ~~I have not yet started playing Lego Tower today. I plan to play tonight, but may or may not have the time.~~
+- I ended up skipping my session again this week, due to a lack of time. I wasted a lot of time, and also had to go to bed earlier. I was hoping to play this week. - 2025, Thursday, September 11th
 
 ***
 
@@ -1922,6 +1923,6 @@ See above.
 
 # File info
 
-- **File version:** `1 (2025, Thursday, September 11th at 04:09 pm PST)`
+- **File version:** `2 (2025, Friday, September 12th at 01:41 pm PST)`
 
 ***
